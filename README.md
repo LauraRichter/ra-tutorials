@@ -1,4 +1,5 @@
-ra-tutorials
-============
+Radio Astronomy tutorials
+==========================
 
-Ipython notebooks of Radio Astronomy related tutorials
+Ipython notebooks of Radio Astronomy related tutorials.
+
