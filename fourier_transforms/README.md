@@ -2,6 +2,7 @@ Fourier Transforms
 ==================
 
 Some introductory Fourier Transforms notebooks.
+(Ipython notebook version 0.12)
 
 The notebooks demonstrate:
 
