@@ -12,8 +12,8 @@ The notebooks demonstrate:
 4. An explicit DFT
 5. Basic Fourier transform pairs
 6. The convolution theorem
-7. 
-8.
-9.
+7. <coming> 
+8. <coming>
+9. <coming>
 10. 2D Fourier transform examples
-11. 
+
