@@ -14,6 +14,6 @@ The notebooks demonstrate:
 6. The convolution theorem
 7. <coming> 
 8. <coming>
-9. <coming>
+9. Looking at Nyquist sampling in the Fourier domain
 10. 2D Fourier transform examples
 
